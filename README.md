@@ -1,0 +1,1 @@
+Hi guys!!! This is my own research on how to generate high quality Chinese poetry. Actually, I have two ideas about this work. First, I want to use prompt engineering method like in context learning or COT technique. Second, I want to use KG and DA method to make use of the reasoning or semantic capabilities of large language models.
